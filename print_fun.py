@@ -9,7 +9,7 @@ print("Our New line is:\n Here is new line")
 
 # Types of Comments
 '''
-HI, I am triple single Quote Comment
+HI, I am triple single Quote Comments
 '''
 
 """
