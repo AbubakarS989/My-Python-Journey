@@ -60,12 +60,43 @@ COMplex=complex(2,3)
 print(COMplex)
 
 
+#! List - [2,34,"ahmad",'a']
+# It is an ordered collection of data with element separated by comma and enclosed within square brackets
+# We can change list data using list method, can be modified after creation. 
+list_name=["ahmad","ali","rehman",4,34.4]
+print(list_name)
+
+# ! Tuple
+# It is an ordered collection of data with element separated by comma and enclosed within parenthesis
+tuple_name=(3,4,("helo"))
+print(tuple_name)
+
+
+#! Mapped Data Dictionary 
+# The key-value pair enclosed within curly brackets 
+
+dict1={
+    "name":"Ali",
+    "age":22
+}
+print(dict1)
+# here key is [name] and value is [ali]
+# here key is [age] and value is [22]
+# we can access value of any key using key name.
+
+
+
+
+#We can check type of each value.
 print("The type of num is :",type(num))
 print("The type of name is :",type(name))
-print("The type of ch is :",type(ch)) #We can check type of each value.
+print("The type of ch is :",type(ch)) 
 print("The type of height is :",type(height))
 print("The type of BOOL is :",(type(BOOL)))
 print("The type of COMPLEx  is :",type(COMplex))
+print("The type of List name  is :",type(list_name))
+print("The type of Tuple name is  is :",type(tuple_name))
+print("The type of Dict1 is :",type(dict1))
 
 
 
