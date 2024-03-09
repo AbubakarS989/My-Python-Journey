@@ -20,6 +20,7 @@ print("Date:",datetime.now().date())
 #! List
 #! Mapped Data Dictionary 
 
+
 #! integers 
 
 num=34
@@ -87,6 +88,7 @@ print(dict1)
 
 
 
+#! All data type have some limit to store date inside them.
 
 #We can check type of each value.
 print("The type of num is :",type(num))
@@ -102,4 +104,7 @@ print("The type of Dict1 is :",type(dict1))
 
 
 
-#! All data type have some limit to store date inside them.
+
+
+# Video 6 is completed with one project of dictionary
+# 9-3-24
