@@ -73,6 +73,7 @@ print(tuple_name)
 
 
 #! Mapped Data Dictionary 
+# A dictionary is an unordered collection of data containing a key-value pair.
 # The key-value pair enclosed within curly brackets 
 
 dict1={
